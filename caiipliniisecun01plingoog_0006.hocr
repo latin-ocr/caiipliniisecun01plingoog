@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./caiipliniisecun01plingoog_0006.png"; bbox 0 0 2950 5000; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 163 1440 1120 1601">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 163 1440 1120 1601">
+     <span class='ocr_line' id='line_1_1' title="bbox 163 1440 1120 1601; baseline 0.028 -32"><span class='ocrx_word' id='word_1_1' title='bbox 163 1552 168 1569; x_wconf 88' lang='lat'><strong><em>.</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 275 1440 1120 1601; x_wconf 86' lang='lat' dir='ltr'><strong>BIBLIOTHECA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 391 1754 1005 1850">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 391 1754 1005 1850">
+     <span class='ocr_line' id='line_1_2' title="bbox 391 1754 1005 1850; baseline 0.003 -4"><span class='ocrx_word' id='word_1_3' title='bbox 391 1755 716 1850; x_wconf 83' lang='lat' dir='ltr'>CLASSICA</span> <span class='ocrx_word' id='word_1_4' title='bbox 748 1754 1005 1848; x_wconf 82' lang='lat' dir='ltr'><strong>LATINA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 321 2207 1050 2585">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 321 2200 1050 2585">
+     <span class='ocr_line' id='line_1_3' title="bbox 355 2207 1050 2370; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 355 2207 1050 2370; x_wconf 87' lang='lat' dir='ltr'><strong>COLLECTIO</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 321 2500 1011 2585; baseline 0.003 -2"><span class='ocrx_word' id='word_1_6' title='bbox 321 2500 399 2583; x_wconf 63' lang='lat'><strong>011</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 605 2502 1011 2585; x_wconf 69' lang='lat' dir='ltr'>ss10n1um</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1480 5000">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1480 5000">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1480 5000; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1480 5000; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
